@@ -46,6 +46,7 @@ A clear statement of the business task
 **Deliverable**
 
 A description of all data sources used
+
 `Data terdapat pada Kagle. Data ini merupakan data setahun yang dibagi menjadi 4 Querter, yang berarti berisi 4 bagian data(.csv) dengan rentang tahun 2019 - 2020.`
 
 
@@ -65,9 +66,10 @@ A description of all data sources used
 
 **Deliverable**
 * Documentation of any cleaning or manipulation of data
+
 `Berikut merupakan proses cleaning dan manipulasi data.`
 
-```sel
+```R
 #Loading library
 library(tidyverse)
 library(lubridate)
