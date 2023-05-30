@@ -1,7 +1,7 @@
 ## **Case Study: How Does A Bike-Share Navigate Speedy Success?**
 In this specific case study, I am playing the role of a junior data analyst working in the marketing analyst team at Cyclistic, a bike-share company in Chicago. The director of marketing believes the company’s future success depends on maximizing the number of annual memberships. Therefore, my team wants to understand how casual riders and annual members use Cyclistic bikes differently. From these insights, my team will design a new marketing strategy to convert casual riders into annual members. But first, Cyclistic executives must approve your recommendations, so they must be backed up with compelling data insights and professional data visualizations.
 
-You can see the running program with R here: 
+You can see the running program with R here: Google Data Analytics-Capstone Case Study-1
 
 **Characters and teams:**
 * Cyclistic: A bike-share program that features more than 5,800 bicycles and 600 docking stations. Cyclistic sets itself apart by also offering reclining bikes, hand tricycles, and cargo bikes, making bike-share more inclusive to people with disabilities and riders who can’t use a standard two-wheeled bike. The majority of riders opt for traditional bikes; about 8% of riders use the assistive options. Cyclistic users are more likely to ride for leisure, but about 30% use them to commute to work each day.
@@ -238,6 +238,44 @@ head(popular_start_stations_member)
 
 **Deliverable**
 * Analysis summary
-* ` Summary yang didapatkan ialah terdapat 902182 pengguna casual dan 2973860 member`
-* `Penggunaan yang dilakukan oleh pengguna casual lebih besar yang mencapai 3552.7502 dibanding dengan member yang sebesar 850.0662`
+* `1. Summary yang didapatkan ialah terdapat 902182 pengguna casual dan 2973860 member`
+* `2. Penggunaan yang dilakukan oleh pengguna casual lebih besar yang mencapai 3552.7502 dibanding dengan member yang sebesar 850.0662`
+
+
+### Share
+**Guiding Questions**
+* Were you able to answer the question of how annual members and casual riders use Cyclistic bikes differently?
+* What story does your data tell?
+* How do your findings relate to your original question?
+* Who is your audience? What is the best way to communicate with them?
+* Can data visualization help you share your findings?
+* Is your presentation accessible to your audience?
+
+**Key Tasks**
+* Determine the best way to share your findings
+* Create effective data visualizations
+* Present your findings
+* Ensure your work is accessible
+
+**Deliverable**
+* Supporting visualizations and key findings
+`Berikut merupakan visualisasi tentang temuan yang dikumpulkan`
+
+
+## Act
+**Guiding Questions**
+* What is your final conclusion based on your analysis?
+* How could your team and business apply your insights?
+* What next steps would you or your stakeholders take based on your findings?
+* Is there additional data you could use to expand on your findings?
+
+**Key Tasks**
+* Create your portfolio
+* Add your case study
+* Practice presenting your case study to a friend or family member
+
+**Deliverable**
+* Your top three recommendations based on your analysis.
+* `1. Membuat iklan untuk menarik pengguna casual di stasiun stasiun yang telah ditentukan.`
+* `2. Memberi pengetahuan terhadap pengguna berlagganan(member) tentang keuntungan penggunaan member agar pengguna terus berlangganan.`
 
