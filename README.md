@@ -222,4 +222,22 @@ popular_start_stations_member <- all_trips_v2 %>%
 head(popular_start_stations_member)
 ```
 
+### Analysis
+**Guiding Questions**
+* How should you organize the data for analysis?
+* Is your data formatted correctly?
+* What surprises did you find in the data?
+* What trends or relationships did you find in the data?
+* How can these insights help answer your business questions?
+
+**Key Tasks**
+* Aggregate your data so that it is useful and accessible.
+* Organize and format your data.
+* Perform calculations.
+* Identify trends and relationships in the data.
+
+**Deliverable**
+* Analysis summary
+* ` Summary yang didapatkan ialah terdapat 902182 pengguna casual dan 2973860 member`
+* `Penggunaan yang dilakukan oleh pengguna casual lebih besar yang mencapai 3552.7502 dibanding dengan member yang sebesar 850.0662`
 
