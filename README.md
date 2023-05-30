@@ -25,3 +25,51 @@ You can see the running program with R here:
 A clear statement of the business task
 
 `Menentukan perbedaan yang terdapat di costumer antara casual dan member agar dapat meningkatkan keuntungan terhadap bisnis dengan cara meningkatkan pengguna member.`
+
+
+### Prepare
+**Guiding Questions:**
+* Where is your data located?
+* How is the data organized?
+* Are there issues with bias or credibility in this data? Does your data ROCCC?
+* How are you addressing licensing, privacy, security, and accessibility?
+* How did you verify the data’s integrity?
+* How does it help you answer your question?
+* Are there any problems with the data?
+
+**Key Tasks**
+* Download data and store it appropriately
+* Identify how it’s organised
+* Sort and filter the data.
+* Determine the credibility of the data
+
+**Deliverable**
+
+A description of all data sources used
+`Data terdapat pada Kagle. Data ini merupakan data setahun yang dibagi menjadi 4 Querter, yang berarti berisi 4 bagian data(.csv) dengan rentang tahun 2019 - 2020.`
+
+
+### Process
+**Guiding questions**
+* What tools are you choosing and why?
+* Have you ensured your data’s integrity?
+* What steps have you taken to ensure that your data is clean?
+* How can you verify that your data is clean and ready to analyze?
+* Have you documented your cleaning process so you can review and share those results?
+
+**Key Tasks**
+* Check the data for errors
+* Choose your tools
+* Transform the data so you can work with it effectively
+* Document the cleaning process
+
+**Deliverable**
+* Documentation of any cleaning or manipulation of data
+`Berikut merupakan proses cleaning dan manipulasi data.`
+
+```sel
+#Loading library
+library(tidyverse)
+library(lubridate)
+library(ggplot2)
+```
