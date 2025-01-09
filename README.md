@@ -45,10 +45,30 @@ In this specific case study, I am playing the role of a junior data analyst work
 
 
 ## Project Structure
-- dataset : Contains raw data of Cyclistic.
+- dataset : Contains `dataset.md` for instruction to download dataset.
 - Readme.txt : Contains data documentation.
 - google-case-study.ipynb : This file contains the dashboard with the analysis results.
 
+
+## Instalation 
+1. Clone this repository
+```R
+git clone https://github.com/DaffaSuadaa/Case-Study_Google-Data-Analytics.git
+```
+2. Go to the project directory
+```R
+cd/Case-Study_Google-Data-Analytics
+```
+3. Setup dataset
+* Go to directory `cd/dataset`
+* Follow instruction in `dataset.md`
+
+4. Run notebook
+* Open `google-case-study.ipynb`
+* Run All
+
+**Note:**
+There may be differences in directory order, so make sure you enter the correct directory.
 
 **Thank you !!**
 
